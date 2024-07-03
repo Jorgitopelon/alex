@@ -12,19 +12,6 @@ City Tour is an interactive app/game that we created using OpenGL, where the aud
 
 ![posterfinal](https://github.com/Rayo070305/Proyecto_final_pg/blob/main/Documentacion/Imagenes%20referencia/inicio.jpg)
 
-## Getting Started
-
-### Running the app
-
-You can run the main.cpp file in the CityTour folder (do not move it out or rename it). The reason is that the required assets and libraries are located in the same folder. However, we recommend that you open and run the CityTour.cbp file using CodeBlocks. The cbp (code blocks point) file contains configurations to the linkers and dependencies. Running the cbp file will ensure the City Tour to work as it has been tested on multiple Windows devices.
-
-### How to Use the App
-
-We provide three-camera perspective options selectable by the user in the welcoming window, namely car mode, helicopter mode, and free mode.
-
-![CityTourSelectMode](https://raw.githubusercontent.com/jamesadhitthana/City-Tour/main/Documentation/Screenshots/citytourselectmode.png)
-
-After the user selects a mode, the city will be displayed and run according to the selected mode. For helicopter mode, the user will be taken to see from an upper perspective, while for car mode, the user will be taken to see from a street perspective. Both of them can only follow the path of the journey that we have designed, and the user can move the mouse to look around while enjoying the view of our city. On the other hand, the user can move the camera anywhere using the keyboard keys (W A S D) for the free mode.
 
 ## Screenshots
 
@@ -55,23 +42,25 @@ The animation for the city tour is done by moving the camera location coordinate
 
 ## Built With
 
-- [C++](https://isocpp.org/) - iostream, vector, Windows.h, MMSystem.h
+- [Pygame](https://www.pygame.org/docs/) - Mixer
 - [OpenGL](https://www.opengl.org/) - OpenGL
-  - [GLFW](https://www.glfw.org/) - GLFW
-  - [GLAD](https://github.com/Dav1dde/glad) - GLAD
-  - [STB_Image](https://github.com/nothings/stb) - STB_Image
+  - [Math](https://docs.python.org/3/library/math.html) - Math
+  - [Numpy](https://numpy.org/) - Numpy
   - [GLM](https://glm.g-truc.net/0.9.9/index.html) - GLM, matrix_transform.hpp, type_ptr.hpp
-- [shader.h](https://learnopengl.com/Getting-started/Shaders) - Shader
-- [camera.h](https://learnopengl.com/Getting-started/Camera) - Camera
-- [model.h](https://learnopengl.com/Model-Loading/Model) - Model
+- [Python](https://docs.python.org/3/) - Python
+
 
 ## Authors
 
-- **Christopher Yefta** - [ChrisYef](https://github.com/ChrisYef)
+- **JORGE ALEMAN GARCIA** - [Jorge](https://github.com/Rayo070305)
 
-* **James Adhitthana** - [jamesadhitthana](https://github.com/jamesadhitthana)
+* **Ethan Salinas** - [Ethan](https://github.com/Brown001605)
 
-## Acknowledgments
-The project was inspired by [mixtech911](https://www.youtube.com/watch?v=srvyWuU-w4s)'s video and [Simon Firth](https://www.youtube.com/watch?v=GydU7ue5rLM)'s videos.
+* **Anthony Alexander Rayo** - [Rayo](https://github.com/Rayo070305)
+
+* **Alejandro Mendonza** - [Alejandro](https://github.com/aamendoza24)
+
+
+
 
 ![CityTourGallery](https://raw.githubusercontent.com/jamesadhitthana/City-Tour/main/Documentation/Screenshots/gallery.png)
