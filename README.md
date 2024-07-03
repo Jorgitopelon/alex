@@ -52,13 +52,13 @@ The animation for the city tour is done by moving the camera location coordinate
 
 ## Authors
 
-- **JORGE ALEMAN GARCIA** - [Jorge](https://github.com/Rayo070305)
+- **Aleman Jorge** - [Jorge](https://github.com/Rayo070305)
 
-* **Ethan Salinas** - [Ethan](https://github.com/Brown001605)
+* **Salinas Ethan** - [Ethan](https://github.com/Brown001605)
 
-* **Anthony Alexander Rayo** - [Rayo](https://github.com/Rayo070305)
+* **Rayo Anthony** - [Rayo](https://github.com/Rayo070305)
 
-* **Alejandro Mendonza** - [Alejandro](https://github.com/aamendoza24)
+* **Mendoza Alejandro** - [Alejandro](https://github.com/aamendoza24)
 
 
 
