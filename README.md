@@ -1,3 +1,4 @@
+
 <div align="center">
 <h1 >🪐Sytem Solar☀️</h1>
 <p ><sup><b>Educational project that aims to create an interactive simulation of the solar system. </b></sup></p>
@@ -9,7 +10,7 @@
 
 City Tour is an interactive app/game that we created using OpenGL, where the audience can participate in a virtual tour of our city. Our virtual city is equipped with many types of buildings and magnificent roads. The city atmosphere can also change over time, which affects the lighting and shading in the town. The tour will take the camera/audience around the city by following a predetermined path from end to end. Viewers can see the city using three types of camera perspectives. First, there is a car perspective camera (camera following the streets), a helicopter perspective camera (camera from above), and a free-mode perspective camera (free camera). During the trip, the audience can look around using the mouse.
 
-![CityTourPoster](https://raw.githubusercontent.com/jamesadhitthana/City-Tour/main/Documentation/Screenshots/citytourposter.png)
+![posterfinal](https://github.com/Rayo070305/Proyecto_final_pg/blob/main/Documentacion/Imagenes%20referencia/inicio.jpg)
 
 ## Getting Started
 
