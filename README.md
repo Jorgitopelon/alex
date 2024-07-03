@@ -8,10 +8,9 @@
 
 # Introduction
 
-City Tour is an interactive app/game that we created using OpenGL, where the audience can participate in a virtual tour of our city. Our virtual city is equipped with many types of buildings and magnificent roads. The city atmosphere can also change over time, which affects the lighting and shading in the town. The tour will take the camera/audience around the city by following a predetermined path from end to end. Viewers can see the city using three types of camera perspectives. First, there is a car perspective camera (camera following the streets), a helicopter perspective camera (camera from above), and a free-mode perspective camera (free camera). During the trip, the audience can look around using the mouse.
+The solar system simulator is an interactive educational application developed in Python using the OpenGL and Pygame libraries. This application features a menu of options where users can choose between navigating a solar system simulation and accessing a section with detailed information about each planet. In the solar system simulation, users can move around the entire scene by controlling the camera with the keyboard and mouse.
 
 ![posterfinal](https://github.com/Rayo070305/Proyecto_final_pg/blob/main/Documentacion/Imagenes%20referencia/inicio.jpg)
-
 
 ## Screenshots
 
@@ -34,11 +33,7 @@ The animation for the city tour is done by moving the camera location coordinate
 
 ### Documentation:
 
-- [Documentation (Bahasa Indonesia)](<https://github.com/jamesadhitthana/City-Tour/raw/main/Documentation/City%20Tour%20(Bahasa%20Indonesia)%20-Christopher%20Yefta-James%20Adhitthana.pdf>)
-
-### Notes:
-
-- City Tour was created for a university project and therefore we will not be liable for any loss or damage of any nature.
+- [Documentation](<https://github.com/jamesadhitthana/City-Tour/raw/main/Documentation/City%20Tour%20(Bahasa%20Indonesia)%20-Christopher%20Yefta-James%20Adhitthana.pdf>)
 
 ## Built With
 
@@ -59,8 +54,5 @@ The animation for the city tour is done by moving the camera location coordinate
 * **Rayo Anthony** - [Rayo](https://github.com/Rayo070305)
 
 * **Mendoza Alejandro** - [Alejandro](https://github.com/aamendoza24)
-
-
-
 
 ![CityTourGallery](https://raw.githubusercontent.com/jamesadhitthana/City-Tour/main/Documentation/Screenshots/gallery.png)
