@@ -1,4 +1,3 @@
-
 <div align="center">
 <h1 >🪐Sytem Solar☀️</h1>
 <p ><sup><b>Educational project that aims to create an interactive simulation of the solar system. </b></sup></p>
@@ -12,6 +11,15 @@ The solar system simulator is an interactive educational application developed i
 
 ![posterfinal](https://github.com/Rayo070305/Proyecto_final_pg/blob/main/Documentacion/Imagenes%20referencia/inicio.jpg)
 
+
+
+# Movement
+
+- "W": go forward .
+- "A": move to the left.
+- "S": go backwards.
+- "D": move to the right.
+
 ## Screenshots
 
 ### Helicopter Mode
@@ -22,14 +30,15 @@ The solar system simulator is an interactive educational application developed i
 
 ![CityTourCar](https://raw.githubusercontent.com/jamesadhitthana/City-Tour/main/Documentation/Screenshots/carmode.png)
 
-# How it's made
+# How we did it
 
-We did this project by forming boxes (cubes), which we placed with a pattern, and then we gave the squares textures to form a building. The shapes of buildings are made by combining several boxes into one. There are four types of structures that we created, and we put the types of buildings randomly.
+The 3D solar system simulation project uses Pygame and OpenGL and has several important functionalities. Pygame is started and a viewport with OpenGL support is configured, allowing for the implementation of textures.
 
-We use a skybox for the day and night backgrounds, which is a combination of 6 texture images and forms a 3-dimensional cube map. Skybox will change to day or night according to the time we have set. We also added the sun, moon, car, and people using the texture image and removed the fragments of the parts of the texture that we wanted to make transparent. We also use translation and rotation in our texture image to make it move more realistically.
+The Camera Class allows you to control the user's perspective by capturing keyboard and mouse input to move and orient the camera within the boundaries of the skybox. It is possible to upload textures for the moon, planets, Saturn's rings, and the skybox, as well as an OBJ model of a satellite with its textures.
 
-We also utilized the Camera class from learnopengl.com to create a camera perspective of our program.
-The animation for the city tour is done by moving the camera location coordinates to make it move like a car or helicopter.We also employed city ambiance sounds and even car and helicopter sounds according to the camera perspective. To run the background music, we use the Windows library and MMSystem and use the PlaySound function, which plays in the background and loops the song until the application is closed.
+The main axis of the program manages user events, updates the camera, and represents the skybox, the sun, the planets with their orbits and rings, and the satellite in motion. The planets orbit the sun at different speeds, producing a constant, dynamic animation, while the satellite has its own animated orbit.
+
+Additionally, background music is played using pygame.mixer, improving user immersion. Together, these elements integrate to offer an interactive and visually engaging experience of a 3D solar system.
 
 ### Documentation:
 
@@ -45,6 +54,10 @@ The animation for the city tour is done by moving the camera location coordinate
 - [Python](https://docs.python.org/3/) - Python
 
 
+
+# Showcase video link
+https://drive.google.com/file/d/1wzo43fFBXyjJ0dNaVB45vE5_pAfh3ML4/view
+
 ## Authors
 
 - **Aleman Jorge** - [Jorge](https://github.com/Rayo070305)
@@ -55,4 +68,4 @@ The animation for the city tour is done by moving the camera location coordinate
 
 * **Mendoza Alejandro** - [Alejandro](https://github.com/aamendoza24)
 
-![CityTourGallery](https://raw.githubusercontent.com/jamesadhitthana/City-Tour/main/Documentation/Screenshots/gallery.png)
+
