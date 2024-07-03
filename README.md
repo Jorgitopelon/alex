@@ -60,12 +60,12 @@ https://drive.google.com/file/d/1wzo43fFBXyjJ0dNaVB45vE5_pAfh3ML4/view
 
 ## Authors
 
-- **Aleman Jorge** - [Jorge](https://github.com/Rayo070305)
+- **Aleman Jorge** - [Jorgitopelon ](https://github.com/Rayo070305)
 
-* **Salinas Ethan** - [Ethan](https://github.com/Brown001605)
+* **Salinas Ethan** - [Brown001605](https://github.com/Brown001605)
 
-* **Rayo Anthony** - [Rayo](https://github.com/Rayo070305)
+* **Rayo Anthony** - [Rayo070305](https://github.com/Rayo070305)
 
-* **Mendoza Alejandro** - [Alejandro](https://github.com/aamendoza24)
+* **Mendoza Alejandro** - [aamendoza24](https://github.com/aamendoza24)
 
 
